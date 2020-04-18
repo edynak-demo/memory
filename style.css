@@ -1,0 +1,28 @@
+body {
+	background-color: gray;
+}
+
+#container {
+	margin: 0px auto;
+	width: 640px;
+	font: 20px Verdana;
+	font-weight: bold;
+}
+
+#information {
+	text-align: center;
+	margin: 20px;
+}
+
+.text {
+	color: white;
+}
+
+.button {
+	background: black;
+	color: white;
+	margin: 10px;
+	padding: 5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
